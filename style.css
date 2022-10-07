@@ -31,6 +31,7 @@ ul {
 }
 
 a, li {
+    color: #7402bb;
 	text-decoration: none;
     padding: 10px;
     opacity: 100%;
