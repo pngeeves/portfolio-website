@@ -269,7 +269,7 @@ header{
     justify-content: center;
     align-items: center;
     text-align: center;
-    grid-gap: 5% 10%;
+    grid-gap: 7% 7%;
     padding: 50px 50px;
 }
 .card {
@@ -277,9 +277,9 @@ header{
     transition: 0.3s;
     padding: 20px;
     background-image: url("images/test7.jpg");
-    width: initial;
+    max-width: 60vh;
     min-height: 40vh;
-    max-height: 70vh;
+    max-height: 60vh;
     margin: 0
 }
 
@@ -382,7 +382,7 @@ form {
 }
 
 textarea.input {
-    padding: 15px 75px;
+    padding: 18px 26px;
     min-height: 150px;
     border-radius: 22px;
     resize: none;
@@ -411,7 +411,7 @@ textarea.input {
 .btn {
     padding: 10px 20px;
     background-color: #fff;
-    border: 2px solid #fafafa;
+    border: 2px solid #a3b8f3;
     font-size: 15px;
     line-height: 1;
     border-radius: 25px;
@@ -422,8 +422,9 @@ textarea.input {
 }
 
 .btn:hover {
-    background-color: transparent;
+    background-color: #a3b8f3;
     color: #fff;
+    border: 2px solid #fff;
 }
 
 .input-container span {
