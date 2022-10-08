@@ -48,6 +48,15 @@ header{
     height: 100%;
     background-attachment: fixed;
     background-repeat: no-repeat;
+
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+header nav{
+    margin-top:-50px;
 }
 
 .header-columns {
