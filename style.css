@@ -31,15 +31,15 @@ ul {
 }
 
 a, li {
-    color: #7402bb;
-	text-decoration: none;
-    padding: 10px;
+    color: #59038fb0;
+    text-decoration: none;
+    padding: 13px 8px;
     opacity: 100%;
     font-weight: bold;
 }
 
 li:hover{
-    text-shadow: 1px 1px 1px white;
+    text-shadow: 1px 1px 2px white;
     opacity: 70%;
 }
 
